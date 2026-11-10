@@ -30,4 +30,6 @@ TaskSnap 0.9.1 has been submitted to Myket and Café Bazaar for review. Store li
 
 I built TaskSnap in stages, starting with quick task entry and daily planning. Using early builds on my phone helped me refine the task controls and reminder flow before adding attachments, backups, and calendar integration. I used technical documentation and Android development tools to check behavior across devices, and AI assistance to compare implementation options and review changes.
 
+If you’ve used TaskSnap and found it helpful, I’d appreciate a star on GitHub and a review sharing your experience in the store where you downloaded it.
+
 [Portfolio and project inquiries](https://mohammadghorbani-dev.ir/contact)
