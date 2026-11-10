@@ -26,4 +26,8 @@ The screenshots use sample tasks and ideas.
 
 TaskSnap 0.9.1 has been submitted to Myket and Café Bazaar for review. Store links will be added when available. Application source is maintained in a separate private repository.
 
-I used a range of development tools, including AI assistance, during the project. [Portfolio and project inquiries](https://mohammadghorbani-dev.ir/contact).
+## Development process
+
+I built TaskSnap in stages, starting with quick task entry and daily planning. Using early builds on my phone helped me refine the task controls and reminder flow before adding attachments, backups, and calendar integration. I used technical documentation and Android development tools to check behavior across devices, and AI assistance to compare implementation options and review changes.
+
+[Portfolio and project inquiries](https://mohammadghorbani-dev.ir/contact)
