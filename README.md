@@ -6,6 +6,10 @@ I’m **Mohammad Ghorbani**, the developer behind TaskSnap. I built it around a 
 
 [فارسی](README.fa.md) · [Product website](https://mohammadghorbani-dev.ir/tasksnap/index.html) · [Privacy policy](https://mohammadghorbani-dev.ir/tasksnap/privacy.html)
 
+## Status
+
+TaskSnap 0.9.1 has been submitted to Myket and Café Bazaar for review. Store links will be added when available. Application source is maintained in a separate private repository.
+
 <p>
   <img src="screenshots/01-today.png" width="220" alt="TaskSnap Today view with progress and three task states">
   <img src="screenshots/02-ideas.png" width="220" alt="TaskSnap ideas with sample notes">
@@ -21,10 +25,6 @@ The screenshots use sample tasks and ideas.
 **Engineering.** I built the interface in Flutter, used SQLite for on-device storage, and integrated Android alarms, file access, and device calendars through Kotlin. Portable backups include photos and audio. Merge restore adds missing items and preserves existing records. Optional Google Drive backup uses limited file access.
 
 **Release validation.** The signed candidate was installed on Android 12 and checked for offline startup, duplicate-safe restore, and attachment integrity. Google Drive authorization, backup, and restore were also verified with an account outside the test-user list.
-
-## Status
-
-TaskSnap 0.9.1 has been submitted to Myket and Café Bazaar for review. Store links will be added when available. Application source is maintained in a separate private repository.
 
 ## Development process
 
